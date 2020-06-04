@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_483319_lms_jello world 2.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<g:evaluate>
+	var words = ["hello","world","this","is","jelly"];
+	</g:evaluate>	
+<j:forEach var="jvar_i" items="${words}">
+	<p> ${jvar_i}</p>
+	</j:forEach>
+</j:jelly>]]></html>
+        <name>jello world 2</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 00:09:34</sys_created_on>
+        <sys_id>4fd031f72f0510106ac0811df699b6e3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>jello world 2</sys_name>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_update_name>sys_ui_page_4fd031f72f0510106ac0811df699b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 00:11:26</sys_updated_on>
+    </sys_ui_page>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Books">75ab553f2fc110106ac0811df699b607</category>
+        <columns>author,bookid,booksnam,details,number,status,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 22:30:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39ab553f2fc110106ac0811df699b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_update_name>sys_aw_list_39ab553f2fc110106ac0811df699b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:30:02</sys_updated_on>
+        <table>x_483319_lms_books</table>
+        <title>All</title>
+        <workspace display_value="LMS">55abdd7b2fc110106ac0811df699b6c1</workspace>
+    </sys_aw_list>
+</record_update>

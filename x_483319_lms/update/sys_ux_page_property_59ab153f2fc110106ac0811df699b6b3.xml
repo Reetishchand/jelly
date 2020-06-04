@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Show/Hide search component in workspace header</description>
+        <name>ws_active_search</name>
+        <page display_value="LMS">5dabdd7b2fc110106ac0811df699b6c1</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 22:30:01</sys_created_on>
+        <sys_id>59ab153f2fc110106ac0811df699b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_search</sys_name>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_update_name>sys_ux_page_property_59ab153f2fc110106ac0811df699b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:30:01</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_483319_lms.ws_active_search</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=59ab153f2fc110106ac0811df699b6b3"/>
+</record_update>

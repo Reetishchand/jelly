@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>general</category>
+        <client_script/>
+        <description>populaing details </description>
+        <direct>false</direct>
+        <endpoint>x_483319_lms_Home page.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<h1> Book Details</h1>
+</j:jelly>]]></html>
+        <name>Home page</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 22:34:51</sys_created_on>
+        <sys_id>b71c5d3f2fc110106ac0811df699b6d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Home page</sys_name>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_update_name>sys_ui_page_b71c5d3f2fc110106ac0811df699b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:36:24</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LMS">239a993b2fc110106ac0811df699b653</application>
+        <file_path/>
+        <instance_id>6a6575eedb02970c0e785d00cf961940</instance_id>
+        <instance_name>dev59358</instance_name>
+        <name>sys_ui_page_b71c5d3f2fc110106ac0811df699b6d1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script/&gt;&lt;description&gt;populaing details &lt;/description&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_483319_lms_Home page.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+	&lt;h1&gt; Book Details&lt;/h1&gt;
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;Home page&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-06-03 22:34:51&lt;/sys_created_on&gt;&lt;sys_id&gt;b71c5d3f2fc110106ac0811df699b6d1&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Home page&lt;/sys_name&gt;&lt;sys_package display_value="LMS" source="x_483319_lms"&gt;239a993b2fc110106ac0811df699b653&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="LMS"&gt;239a993b2fc110106ac0811df699b653&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_b71c5d3f2fc110106ac0811df699b6d1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-06-03 22:36:24&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1138810750</payload_hash>
+        <record_name>Home page</record_name>
+        <reverted_from/>
+        <source>e79a993b2fc110106ac0811df699b655</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 22:36:24</sys_created_on>
+        <sys_id>c31d5d3f2fc110106ac0811df699b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727c5414cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:36:24</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>4f1d5d3f9cc1101094296c223f61e2fc</update_guid>
+        <update_guid_history>4f1d5d3f9cc1101094296c223f61e2fc:-1138810750,ccccd17fb4c110101b0fe582fc3756cb:-963091835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 23:57:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>0003e31ae6b04d7b819ee26061db42e9</sys_id>
+        <sys_metadata>b71c5d3f2fc110106ac0811df699b6d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home page</sys_name>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_scope_delete display_value="">1e38d651b08e4b048565fc7e1621e710</sys_scope_delete>
+        <sys_update_name>sys_ui_page_b71c5d3f2fc110106ac0811df699b6d1</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_b71c5d3f2fc110106ac0811df699b6d1">c31d5d3f2fc110106ac0811df699b6fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 23:57:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
