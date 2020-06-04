@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_483319_lms_iplookup" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_483319_lms_iplookup" element="NULL" name="x_483319_lms_iplookup" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6db2c6372f4510106ac0811df699b686</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_id>2db2c6372f4510106ac0811df699b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>country</element>
+            <list_id display_value="x_483319_lms_iplookup" element="NULL" name="x_483319_lms_iplookup" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6db2c6372f4510106ac0811df699b686</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_id>a1b2c6372f4510106ac0811df699b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hostname</element>
+            <list_id display_value="x_483319_lms_iplookup" element="NULL" name="x_483319_lms_iplookup" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6db2c6372f4510106ac0811df699b686</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_id>25b2c6372f4510106ac0811df699b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ipaddress</element>
+            <list_id display_value="x_483319_lms_iplookup" element="NULL" name="x_483319_lms_iplookup" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6db2c6372f4510106ac0811df699b686</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_id>a5b2c6372f4510106ac0811df699b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>region</element>
+            <list_id display_value="x_483319_lms_iplookup" element="NULL" name="x_483319_lms_iplookup" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6db2c6372f4510106ac0811df699b686</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_id>29b2c6372f4510106ac0811df699b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>timezone</element>
+            <list_id display_value="x_483319_lms_iplookup" element="NULL" name="x_483319_lms_iplookup" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6db2c6372f4510106ac0811df699b686</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_id>a9b2c6372f4510106ac0811df699b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_483319_lms_iplookup</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 01:20:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6db2c6372f4510106ac0811df699b686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_483319_lms_iplookup</sys_name>
+            <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+            <sys_update_name>sys_ui_list_x_483319_lms_iplookup_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 01:20:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

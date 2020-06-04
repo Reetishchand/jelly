@@ -4,37 +4,38 @@
         <client_script/>
         <description/>
         <direct>false</direct>
-        <endpoint>x_483319_lms_jello world 2.do</endpoint>
+        <endpoint>x_483319_lms_sample table.do</endpoint>
         <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
-<g:evaluate>
-	var words = ["hello","world","this","is","jelly"];
-	</g:evaluate>	
-	<!-- == jvar_ is masndatory -->
-<j:forEach var="jvar_i" items="${words}">
-	<p> ${jvar_i}</p>
-	</j:forEach>
-<j:set var="jvar_count" value="5"/>
-	<j:set var="jvar_bool"> true</j:set>
-	<j:if test="${jvar_count} eq 5">
-		yes it is<br/>
-		</j:if>
+<g2:evaluate>
+	var gr = new GlideRecord("problem");
 	
+	gr.query();
+	</g2:evaluate>
+<table width="50px">
 	
+	<tr><td> id </td><td>desc</td>
+	</tr>
+	
+	<j2:while test="$[gr.next()]">
+		
+		<tr>
+			<td>$[gr.getValue('number')]</td>
+			<td>$[gr.getValue('description')]</td></tr></j2:while></table>
 </j:jelly>]]></html>
-        <name>jello world 2</name>
+        <name>sample table</name>
         <processing_script/>
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-04 00:09:34</sys_created_on>
-        <sys_id>4fd031f72f0510106ac0811df699b6e3</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>jello world 2</sys_name>
+        <sys_created_on>2020-06-04 00:42:38</sys_created_on>
+        <sys_id>0578793f2f0510106ac0811df699b6fe</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>sample table</sys_name>
         <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
         <sys_policy/>
         <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
-        <sys_update_name>sys_ui_page_4fd031f72f0510106ac0811df699b6e3</sys_update_name>
+        <sys_update_name>sys_ui_page_0578793f2f0510106ac0811df699b6fe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-04 00:28:06</sys_updated_on>
+        <sys_updated_on>2020-06-04 00:52:44</sys_updated_on>
     </sys_ui_page>
 </record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>sample</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://snbucketz.s3.amazonaws.com</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 01:00:39</sys_created_on>
+        <sys_id>0bfd35732f4510106ac0811df699b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sample</sys_name>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_update_name>sys_rest_message_0bfd35732f4510106ac0811df699b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 01:00:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LMS">239a993b2fc110106ac0811df699b653</application>
+        <file_path/>
+        <instance_id>6a6575eedb02970c0e785d00cf961940</instance_id>
+        <instance_name>dev59358</instance_name>
+        <name>sys_rest_message_0bfd35732f4510106ac0811df699b6cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>sample</name><oauth2_profile/><protocol_name/><rest_endpoint>https://snbucketz.s3.amazonaws.com</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-04 01:00:39</sys_created_on><sys_id>0bfd35732f4510106ac0811df699b6cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sample</sys_name><sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package><sys_policy/><sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope><sys_update_name>sys_rest_message_0bfd35732f4510106ac0811df699b6cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-04 01:00:39</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>1247456355</payload_hash>
+        <record_name>sample</record_name>
+        <reverted_from/>
+        <source>e414fdbb2f0510106ac0811df699b613</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 01:00:39</sys_created_on>
+        <sys_id>bb1eb5732f4510106ac0811df699b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727cd824330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 01:00:39</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>f31eb57368451010d4446b6dadd22cfc</update_guid>
+        <update_guid_history>f31eb57368451010d4446b6dadd22cfc:1247456355</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 01:04:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>008f84a796b146e08d0c36533e36c400</sys_id>
+        <sys_metadata>0bfd35732f4510106ac0811df699b6cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sample</sys_name>
+        <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
+        <sys_scope_delete display_value="">1e38d651b08e4b048565fc7e1621e710</sys_scope_delete>
+        <sys_update_name>sys_rest_message_0bfd35732f4510106ac0811df699b6cb</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_0bfd35732f4510106ac0811df699b6cb">bb1eb5732f4510106ac0811df699b6fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 01:04:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

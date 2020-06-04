@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="iplookup" max_length="40" name="x_483319_lms_iplookup" sizeclass="0" type="collection">
+        <element label="city" max_length="40" name="city" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="hostname" max_length="40" name="hostname" type="string"/>
+        <element label="ipaddress" max_length="40" name="ipaddress" type="string"/>
+        <element label="region" max_length="40" name="region" type="string"/>
+        <element label="timezone" max_length="40" name="timezone" type="string"/>
+    </element>
+</database>
