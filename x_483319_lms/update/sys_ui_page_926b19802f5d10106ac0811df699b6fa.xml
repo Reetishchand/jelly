@@ -4,37 +4,34 @@
         <client_script/>
         <description/>
         <direct>false</direct>
-        <endpoint>x_483319_lms_jello world 2.do</endpoint>
+        <endpoint>x_483319_lms_Conditionals.do</endpoint>
         <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
-<g:evaluate>
-	var words = ["hello","world","this","is","jelly"];
-	</g:evaluate>	
-	<!-- == jvar_ is masndatory -->
-<j:forEach var="jvar_i" items="${words}">
-	<p> item: ${jvar_i}</p>
-	</j:forEach>
-<j:set var="jvar_count" value="5"/>
-	<j:set var="jvar_bool"> true</j:set>
-	<j:if test="${jvar_count} eq 5">
-		yes it is<br/>
-		</j:if>
+	<j2:evaluate var="jvar_tab" val="true"/>
+<j2:choose>
+	<j2:when test="$[jvar_tab == 'true']">
+		<b>incident</b>
+	</j2:when>
+	<j2:when test="$[jvar_tab == 'False']">
+		<p>problem</p>
+	</j2:when>
+	</j2:choose>
 	
 	
 </j:jelly>]]></html>
-        <name>jello world 2</name>
+        <name>Conditionals</name>
         <processing_script/>
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-04 00:09:34</sys_created_on>
-        <sys_id>4fd031f72f0510106ac0811df699b6e3</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_name>jello world 2</sys_name>
+        <sys_created_on>2020-06-04 17:11:39</sys_created_on>
+        <sys_id>926b19802f5d10106ac0811df699b6fa</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Conditionals</sys_name>
         <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
         <sys_policy/>
         <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
-        <sys_update_name>sys_ui_page_4fd031f72f0510106ac0811df699b6e3</sys_update_name>
+        <sys_update_name>sys_ui_page_926b19802f5d10106ac0811df699b6fa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-04 17:27:48</sys_updated_on>
+        <sys_updated_on>2020-06-04 17:14:20</sys_updated_on>
     </sys_ui_page>
 </record_update>

@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-03 22:29:13</sys_created_on>
-        <sys_id>fd7b913f2fc110106ac0811df699b665</sys_id>
+        <sys_id>0ff559cc2f1d10106ac0811df699b643</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Class</sys_name>
         <sys_package display_value="LMS" source="x_483319_lms">239a993b2fc110106ac0811df699b653</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="LMS">239a993b2fc110106ac0811df699b653</sys_scope>
         <sys_update_name>sys_dictionary_x_483319_lms_books_sys_class_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 22:29:13</sys_updated_on>
+        <sys_updated_on>2020-06-04 16:43:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

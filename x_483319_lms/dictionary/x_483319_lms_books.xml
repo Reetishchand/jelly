@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Books" max_length="40" name="x_483319_lms_books" sizeclass="0" text_index="true" type="collection">
+    <element label="Books" max_length="40" name="x_483319_lms_books" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Author" max_length="400" name="author" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="BookId" max_length="400" name="bookid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="BooksNam" max_length="400" name="booksnam" type="string"/>
